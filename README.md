@@ -1,51 +1,38 @@
-# Golden Bomber (ールデンボンバー) – Giga! (ギーガー!)
+# ゴールデンボンバー – ギーガー!
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
 ```
-(*Giga Zonpie-sama is The Holy Spirit King that has created
-this whole world.
-You don't have to worry anymore.
-If you believe in Giga Zonpie-sama, he will erase all pain,
-fear, disasters and so on.
-Gi-ga! Gi-ga!)
-
-Inside me words are spread
-They will sink into you, so let's go to seminar together
-
-Giga Zonpi-sama brings wealth
-Giga Zonpi-sama takes away fear
-Giga Zonpi-sama gives love
-Giga Zonpi-sama is...
-
-In the 2nd floor big hall, where I always go
-Weak people, touching with their shoulders, say prayers
-
-Giga Zonpi-sama doesn't eat leaves
-Giga Zonpi-sama doesn't pay taxes
-Giga Zonpi-sama doesn't brush teeth
-Giga Zonpi-sama, smile
-
-Aa!
-Comforting us
-Who only because they live start wanting to die
-Gi-ga!
-Grant my wish
-I only want the strength to live tomorrow too
-Pain fear disasters etc
-Gi-ga makes everything cease
-
-Giga Zonpi-sama is skillful at lying
-Giga Zonpi-sama erases people who are nuisance
-Giga Zonpi-sama doesn't allow to quit
-Giga Zonpi-sama, surrender!
-
-Aa!
-If having spend money you start feeling good
-If so, that's good, I think
-Gi-ga!
-Grant my request
-I only want the strength to live tomorrow too
-Pain fear disasters etc
-Gi-ga makes everything cease!
+僕の中で流行っている言葉があるの
+君の中へ埋め込むから一緒にセミナーへ行こう
+ギガゾンピ様は富をもたらす
+ギガゾンピ様は不安取除く
+ギガゾンピ様は愛を与える
+ギガゾンピ様は…
+僕がいつも通っている2Fの大広間には
+弱い人が肩を寄せて祈りを捧げているの
+ギガゾンピ様は葉っぱ食べない
+ギガゾンピ様は税金払わない
+ギガゾンピ様は歯を磨かない
+ギガゾンピ様、ねぇ笑って
+あーぁー!
+生きているだけで死にたくもなる
+僕らを慰めるよ
+ギーガー!
+望みを叶えて
+明日も生きる強さを僕は欲しいだけ
+苦しみ 不安 災い等
+全て全滅させてくれるのギーガー!
+ギガゾンピ様は嘘がうまい
+ギガゾンピ様は邪魔者を消す
+ギガゾンピ様は辞めさせてくれない
+ギガゾンピ様、ねぇ自首して!
+あーぁー!
+お金を払って楽になるなら
+それなら いいと思うよ
+ギーガー!
+願いを叶えて
+明日も生きる強さを僕は欲しいだけ
+苦しみ 不安 災い等
+全て全滅させてくれるのギーガー!
 ```
